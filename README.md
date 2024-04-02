@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 --->
 # Certifications: 
 
-## Supervised Machine Learning - ML Certifiate
-![ML Supervised](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/cf54a092-fe55-4605-9508-807a6fed99a9)
-
-
-## SQL Scaler mock interview Certifiate
+## Supervised Machine Learning - ML Certifiate                                                                           ## SQL Scaler mock interview Certifiate
+![ML Supervised](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/cf54a092-fe55-4605-9508-807a6fed99a9)   
 ![sql scaler mock interview certifiate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/54aa5118-fc00-4b9e-acac-329dd7e6fa39)
+
+
+
 
 
 ## Python lib Scaler mock Interview Certifiate
