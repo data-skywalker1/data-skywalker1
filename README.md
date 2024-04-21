@@ -5,13 +5,13 @@
 
 # Certifications:    
 
-|     **Supervised Machine Learning - ML Certifiate**             |        **Unsupervised Machine Learning - ML Certifiate**        |
+|     **Supervised Machine Learning - ML Certificate**             |        **Unsupervised Machine Learning - ML Certificate**        |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|
 | ![ML Supervised](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/cf54a092-fe55-4605-9508-807a6fed99a9) | ![Unsupervised ML](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/bdc715a4-362b-47a4-a767-41776a52b769) |
 
 
 
-|     **Python lib Scaler Certifiate**                              |                      **SQL Scaler Certifiate**                  |  
+|     **Python lib Scaler Certificate**                              |                      **SQL Scaler Certificate**                  |  
 |-------------------------------------------------------------------|-----------------------------------------------------------------|
 | ![python lib scaler mock interview certifiate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/e828e634-582c-425f-a5f6-308d7855c8a8) | ![sql scaler mock interview certifiate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/54aa5118-fc00-4b9e-acac-329dd7e6fa39) |
 
