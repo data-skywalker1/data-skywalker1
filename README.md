@@ -11,7 +11,7 @@
 
 
 
-|     **Python lib Scaler mock Interview Certifiate**               |        **SQL Scaler mock interview Certifiate**                 |  
+|     **Python lib Scaler Certifiate**                              |                      **SQL Scaler Certifiate**                  |  
 |-------------------------------------------------------------------|-----------------------------------------------------------------|
 | ![python lib scaler mock interview certifiate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/e828e634-582c-425f-a5f6-308d7855c8a8) | ![sql scaler mock interview certifiate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/54aa5118-fc00-4b9e-acac-329dd7e6fa39) |
 
