@@ -7,15 +7,13 @@
 
 |     **Supervised Machine Learning - ML Certificate**            |        **Unsupervised Machine Learning - ML Certificate**       |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|
-| ![ML_Sup_Learning_Certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/26d2c908-77c7-4fd9-a853-5f245a6037d9)
- | ![ML_UnSupervised_Learning Certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/9ff1c6d6-1049-44b2-b053-1b40a174656d) |
+| ![ML_Sup_Learning_Certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/26d2c908-77c7-4fd9-a853-5f245a6037d9) | ![ML_UnSupervised_Learning Certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/9ff1c6d6-1049-44b2-b053-1b40a174656d) |
 
 
 
 |     **Python libraries Scaler Certificate**                       |                      **SQL Scaler Certificate**                  |  
 |-------------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Python Libraries certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/da137837-d118-4683-8ff6-03b661fe741e)
- | ![SQL certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/d0773e1e-1a9f-43ed-acad-3cc653893729)  |
+| ![Python Libraries certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/da137837-d118-4683-8ff6-03b661fe741e) | ![SQL certificate](https://github.com/data-skywalker1/data-skywalker1/assets/144556381/d0773e1e-1a9f-43ed-acad-3cc653893729)  |
 
 |           **Heat Map Analysis Certificate**                     |          **EDA fundatmentals Scaler Certificate**                |
 |-----------------------------------------------------------------|------------------------------------------------------------------|
