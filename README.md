@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anup 😊
 - 👀 I’m interested in Machine learning and data science
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Agentic AI
 - I’m looking to collaborate on data analysis
 
 # Certifications:    
